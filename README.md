@@ -1,4 +1,5 @@
 # PAID Smart bombs https://inferno-by-kropek.tebex.io/package/5776524
+Previev: https://youtu.be/I1ibojZ-cS0
 Hey, I would like to take pleasure in showing you the smart explosive system. There are 8 smart explosive counters in the script. 
 
 1- The charge that explodes after the player gets into the car of the trap.
